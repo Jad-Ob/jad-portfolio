@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Full-stack developer portfolio: web apps, AI tools, and database projects.",
     type: "website",
   },
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://jad-portfolio-three.vercel.app/"),
 };
 
 export default function RootLayout({
