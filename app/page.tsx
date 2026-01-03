@@ -94,7 +94,7 @@ export default function Home() {
 
           <a
             className="rounded-xl bg-white px-4 py-2 text-sm font-medium text-[#070a14] hover:opacity-90"
-            href="/cv.pdf"
+            href="/CV.pdf"
             target="_blank"
             rel="noreferrer"
           >
